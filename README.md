@@ -1,6 +1,6 @@
 # KUVORE
 
-Disponivel em
+🌐 **Disponível em:** [kuvore.vercel.app](https://kuvore.vercel.app/#/login)
 
 ## Execução
 
@@ -8,8 +8,6 @@ Disponivel em
 flutter pub get
 flutter run -d chrome
 ```
-
-🌐 **Disponível em:** [kuvore.vercel.app](https://kuvore.vercel.app/#/login)
 
 ```bash
 flutter devices
