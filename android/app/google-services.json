@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "744859603320",
+    "project_id": "kuvore-8b7ad",
+    "storage_bucket": "kuvore-8b7ad.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:744859603320:android:6b2a021da04886ca24f88d",
+        "android_client_info": {
+          "package_name": "com.example.kuvore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "744859603320-d04qj02t9rrb2u6c9epbpgnkhnq5d3ga.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCK1DM8VnF88y9118uSqvl-rdhBr1nyxGo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "744859603320-d04qj02t9rrb2u6c9epbpgnkhnq5d3ga.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
