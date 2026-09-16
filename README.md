@@ -1,6 +1,6 @@
 # KUVORE
 
-Disponivel em 
+Disponivel em
 
 ## Execução
 
@@ -9,7 +9,7 @@ flutter pub get
 flutter run -d chrome
 ```
 
-Para executar em um dispositivo específico:
+🌐 **Disponível em:** [kuvore.vercel.app](https://kuvore.vercel.app/#/login)
 
 ```bash
 flutter devices
