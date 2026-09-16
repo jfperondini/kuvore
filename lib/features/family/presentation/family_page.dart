@@ -201,8 +201,6 @@ class _FamilyPageState extends ConsumerState<FamilyPage> {
 
           LayoutBuilder(
             builder: (context, constraints) {
-              final compact = constraints.maxWidth < 560;
-
               final title = const Column(
                 crossAxisAlignment: CrossAxisAlignment.start,
                 children: [
